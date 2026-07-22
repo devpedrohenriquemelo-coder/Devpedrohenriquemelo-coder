@@ -12,3 +12,100 @@ Neste portfólio ire compartilhar projetos, estudos e experiências que demonstr
 <p>🎓 Estudante de Análise e Desenvolvimento de Sistemas</p>
 <p>💻 Desenvolvedor Front-end e Back-end</p>
 <p>🎯 Focado em construir soluções úteis e escaláveis</p>
+
+<div class="hero">
+    <h1>Olá, eu sou Pedro Henrique 👋</h1>
+    <h2 class="typing"></h2>
+
+    <div class="buttons">
+        <a href="#">GitHub</a>
+        <a href="#">Projetos</a>
+        <a href="#">Contato</a>
+    </div>
+</div>
+
+<style>
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    background:#0d1117;
+    font-family:Arial, sans-serif;
+}
+
+.hero{
+    height:100vh;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    color:white;
+    text-align:center;
+}
+
+.hero h1{
+    font-size:3rem;
+    margin-bottom:20px;
+    animation:fadeIn 1s ease-in-out;
+}
+
+.typing::after{
+    content:"";
+    color:#58a6ff;
+    font-size:1.8rem;
+    animation:typing 10s infinite;
+}
+
+.buttons{
+    margin-top:30px;
+}
+
+.buttons a{
+    text-decoration:none;
+    color:white;
+    border:2px solid #58a6ff;
+    padding:12px 25px;
+    margin:0 10px;
+    border-radius:8px;
+    transition:.3s;
+}
+
+.buttons a:hover{
+    background:#58a6ff;
+    transform:translateY(-5px);
+}
+
+@keyframes fadeIn{
+    from{
+        opacity:0;
+        transform:translateY(30px);
+    }
+    to{
+        opacity:1;
+        transform:translateY(0);
+    }
+}
+
+@keyframes typing{
+    0%{
+        content:"Desenvolvedor Front-End";
+    }
+
+    33%{
+        content:"Desenvolvedor Back-End";
+    }
+
+    66%{
+        content:"Estudante de ADS";
+    }
+
+    100%{
+        content:"Apaixonado por Tecnologia";
+    }
+}
+</style>
+```
+
