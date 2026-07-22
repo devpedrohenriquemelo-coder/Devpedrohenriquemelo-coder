@@ -7,7 +7,7 @@
 Olá! Sou Pedro Henrique (PH)
 Neste portfólio ire compartilhar projetos, estudos e experiências que demonstram minhas habilidades e meu crescimento na área de tecnologia.
 
-📚 Tecnico em Desenvolvimento de Sistemas pela Instituiçaõ Etec Prof. Biagio Carmine Tundisi
-🎓 Estudante de Análise e Desenvolvimento de istemas
-💻 Desenvolvedor Front-end e Back-end
-🎯 Focado em construir soluções úteis e escaláveis
+<p>📚 Tecnico em Desenvolvimento de Sistemas pela Instituiçaõ Etec Prof. Biagio Carmine Tundisi</p>
+<p>🎓 Estudante de Análise e Desenvolvimento de Sistemas</p>
+<p>💻 Desenvolvedor Front-end e Back-end</p>
+<p>🎯 Focado em construir soluções úteis e escaláveis</p>
