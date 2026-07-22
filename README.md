@@ -1,5 +1,6 @@
 ## Iai, como vai? Sou o PH
-**Desenvolvedor Front e Back-end**
+**Desenvolvedor Front e Back-end** 
+<br>
 🛠️ Linguagens 
 <br>
 <p> <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,cs,mysql,git,github,vscode,azure" /> </p>
