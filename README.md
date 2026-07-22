@@ -16,7 +16,6 @@ Neste portfólio ire compartilhar projetos, estudos e experiências que demonstr
 <div class="hero">
     <h1>Olá, eu sou Pedro Henrique 👋</h1>
     <h2 class="typing"></h2>
-
     <div class="buttons">
         <a href="#">GitHub</a>
         <a href="#">Projetos</a>
@@ -25,7 +24,7 @@ Neste portfólio ire compartilhar projetos, estudos e experiências que demonstr
 </div>
 
 <style>
-*{
+{
     margin:0;
     padding:0;
     box-sizing:border-box;
@@ -107,5 +106,4 @@ body{
     }
 }
 </style>
-```
 
